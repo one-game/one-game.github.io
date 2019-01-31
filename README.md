@@ -1,1 +1,7 @@
-# one-game.github.io
+# Onegame blog
+
+## Intro
+
+* NLP
+* DNN
+* Others
